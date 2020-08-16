@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.fbbc5378.chunk.css",
-    "main.js": "/static/js/main.7bfb4841.chunk.js",
-    "main.js.map": "/static/js/main.7bfb4841.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d833bf8f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d833bf8f.js.map",
-    "static/css/2.04ff9426.chunk.css": "/static/css/2.04ff9426.chunk.css",
-    "static/js/2.baa23aaf.chunk.js": "/static/js/2.baa23aaf.chunk.js",
-    "static/js/2.baa23aaf.chunk.js.map": "/static/js/2.baa23aaf.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.7cfd36d86d42cb3c5c36820fb085d82f.js": "/precache-manifest.7cfd36d86d42cb3c5c36820fb085d82f.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.04ff9426.chunk.css.map": "/static/css/2.04ff9426.chunk.css.map",
-    "static/css/main.fbbc5378.chunk.css.map": "/static/css/main.fbbc5378.chunk.css.map",
-    "static/js/2.baa23aaf.chunk.js.LICENSE.txt": "/static/js/2.baa23aaf.chunk.js.LICENSE.txt"
+    "main.css": "/falconilham/aspenku_assignment/static/css/main.fbbc5378.chunk.css",
+    "main.js": "/falconilham/aspenku_assignment/static/js/main.9e72b830.chunk.js",
+    "main.js.map": "/falconilham/aspenku_assignment/static/js/main.9e72b830.chunk.js.map",
+    "runtime-main.js": "/falconilham/aspenku_assignment/static/js/runtime-main.a6541b8a.js",
+    "runtime-main.js.map": "/falconilham/aspenku_assignment/static/js/runtime-main.a6541b8a.js.map",
+    "static/css/2.04ff9426.chunk.css": "/falconilham/aspenku_assignment/static/css/2.04ff9426.chunk.css",
+    "static/js/2.baa23aaf.chunk.js": "/falconilham/aspenku_assignment/static/js/2.baa23aaf.chunk.js",
+    "static/js/2.baa23aaf.chunk.js.map": "/falconilham/aspenku_assignment/static/js/2.baa23aaf.chunk.js.map",
+    "index.html": "/falconilham/aspenku_assignment/index.html",
+    "precache-manifest.b9fc378db5a693c69dd6c28cbe403e2f.js": "/falconilham/aspenku_assignment/precache-manifest.b9fc378db5a693c69dd6c28cbe403e2f.js",
+    "service-worker.js": "/falconilham/aspenku_assignment/service-worker.js",
+    "static/css/2.04ff9426.chunk.css.map": "/falconilham/aspenku_assignment/static/css/2.04ff9426.chunk.css.map",
+    "static/css/main.fbbc5378.chunk.css.map": "/falconilham/aspenku_assignment/static/css/main.fbbc5378.chunk.css.map",
+    "static/js/2.baa23aaf.chunk.js.LICENSE.txt": "/falconilham/aspenku_assignment/static/js/2.baa23aaf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d833bf8f.js",
+    "static/js/runtime-main.a6541b8a.js",
     "static/css/2.04ff9426.chunk.css",
     "static/js/2.baa23aaf.chunk.js",
     "static/css/main.fbbc5378.chunk.css",
-    "static/js/main.7bfb4841.chunk.js"
+    "static/js/main.9e72b830.chunk.js"
   ]
 }
