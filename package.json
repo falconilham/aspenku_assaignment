@@ -2,6 +2,7 @@
   "name": "aspenku",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://falconilham.github.io/aspenku_assignment/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.4.0",
     "@testing-library/jest-dom": "^4.2.4",
